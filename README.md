@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402767-733f5c00-790d-11eb-9d2d-f14149d75d08.png">
   <br />
   Chrome OS Guide
 </h1>
@@ -24,7 +24,7 @@
 # Getting Started
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402768-74708900-790d-11eb-8b63-d7f967ba7f06.png">
   <br />
   Chrome OS Desktop
 </p>
@@ -61,13 +61,13 @@
 ## Chrome WebStore
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402771-75a1b600-790d-11eb-8971-7d5a8ee166e9.png">
  </p>
 
 ## Google Play Store
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402773-776b7980-790d-11eb-9357-eb7ca1ecb8b4.png">
 </p>
 
 ## Flatpaks
@@ -198,7 +198,7 @@ sudo apt install gnome-software gnome-packagekit
 
 ## Steam
 
-Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chromeos)
+Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chromeos) or 
  
  <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
  
@@ -243,7 +243,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 **REQUIREMENTS**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402781-80f4e180-790d-11eb-87e7-dbc5afe7096e.png">
 </p>
 
 [Parallels®️ Desktop for Chromebook Enterprise](https://www.parallels.com/products/desktop/chrome/)
@@ -251,7 +251,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 [Set up Parallels Desktop for Chromebook Enterprise and Education](https://support.google.com/chrome/a/answer/10044480?hl=en)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402783-83573b80-790d-11eb-9b15-c0cf9c80fd71.png">
  <br />
   Parallels®️ Desktop for Chromebook Enterprise [Source:](https://www.parallels.com/products/desktop/chrome/)
 </p>
@@ -295,10 +295,11 @@ xhost +
 [Back to the Top](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402792-979b3880-790d-11eb-8d70-90b9b170beb0.jpeg">
  </p>
  
  **The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.**
+ <img src="https://user-images.githubusercontent.com/45159366/109402785-83efd200-790d-11eb-8a9c-5063029609ad.png">
 
 [TensorFlow Lite](https://www.tensorflow.org/lite/guide) is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
 
