@@ -24,7 +24,7 @@
 # Getting Started
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109402768-74708900-790d-11eb-8b63-d7f967ba7f06.png">
+ <img src="https://user-images.githubusercontent.com/45159366/109402979-31171a00-790f-11eb-8c43-4c0e4a6cc923.png">
   <br />
   Chrome OS Desktop
 </p>
@@ -212,7 +212,7 @@ Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chrom
 The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/109402980-31afb080-790f-11eb-8111-cab523a9b96b.png">
 </p>
 
    - Chrome OS 85 or later
