@@ -253,7 +253,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109402783-83573b80-790d-11eb-9b15-c0cf9c80fd71.png">
  <br />
-  Parallels®️ Desktop for Chromebook Enterprise [Source:](https://www.parallels.com/products/desktop/chrome/)
+  Parallels®️ Desktop for Chromebook Enterprise
 </p>
 
 
