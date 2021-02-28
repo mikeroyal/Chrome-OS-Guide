@@ -6,6 +6,8 @@
 
 #### A guide on setting up your Chrome OS with all the essential Applications, Tools, and Games to make your experience with Chrome OS great! 
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#getting-started)
@@ -198,7 +200,7 @@ sudo apt install gnome-software gnome-packagekit
 
 ## Steam
 
-Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chromeos) or 
+Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chromeos) or [Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam).
  
  <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
  
