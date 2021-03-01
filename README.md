@@ -190,6 +190,7 @@ sudo apt install gnome-software gnome-packagekit
  <img src="https://user-images.githubusercontent.com/45159366/106686391-0f7c7a00-657f-11eb-9d0b-1ebb4d385883.jpeg">
 
 [Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig. 
+
 <img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
 
 [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.
@@ -214,7 +215,7 @@ Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chrom
 The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109402980-31afb080-790f-11eb-8111-cab523a9b96b.png">
+ <img src="https://user-images.githubusercontent.com/45159366/109562469-487f1000-7a93-11eb-8f62-760955f0fc61.png">
 </p>
 
    - Chrome OS 85 or later
@@ -245,7 +246,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 **REQUIREMENTS**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109402781-80f4e180-790d-11eb-87e7-dbc5afe7096e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/109562467-474de300-7a93-11eb-81b5-1674257044a6.png">
 </p>
 
 [Parallels®️ Desktop for Chromebook Enterprise](https://www.parallels.com/products/desktop/chrome/)
@@ -301,7 +302,7 @@ xhost +
  </p>
  
  **The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.**
- <img src="https://user-images.githubusercontent.com/45159366/109402785-83efd200-790d-11eb-8a9c-5063029609ad.png">
+ <img src="https://user-images.githubusercontent.com/45159366/109562469-487f1000-7a93-11eb-8f62-760955f0fc61.png">
 
 [TensorFlow Lite](https://www.tensorflow.org/lite/guide) is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
 
