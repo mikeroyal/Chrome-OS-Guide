@@ -214,9 +214,7 @@ Get Steam with [CrossOver Chrome OS](https://www.codeweavers.com/crossover#chrom
 
 The recommended hardware specifications are Intel Core i5 and i7, 16 GB Memory, and 128/256 GB HDD/SSD.
 
-<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109562469-487f1000-7a93-11eb-8f62-760955f0fc61.png">
-</p>
 
    - Chrome OS 85 or later
    - QEMU > 2.11.1
@@ -245,9 +243,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 
 **REQUIREMENTS**
 
-<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109562467-474de300-7a93-11eb-81b5-1674257044a6.png">
-</p>
 
 [Parallels®️ Desktop for Chromebook Enterprise](https://www.parallels.com/products/desktop/chrome/)
 
