@@ -350,7 +350,7 @@ xhost +
 
 [Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) for high performance training and inference.
 
-# Flutter 
+# Flutter Development
 
 [Back to the Top](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#table-of-contents)
 
