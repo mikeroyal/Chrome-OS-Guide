@@ -22,6 +22,8 @@
 
 6. [Machine Learning](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#machine-learning)
 
+7.[Flutter Development](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#flutter-development)
+
 
 # Getting Started
 
@@ -250,7 +252,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 [Set up Parallels Desktop for Chromebook Enterprise and Education](https://support.google.com/chrome/a/answer/10044480?hl=en)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109402783-83573b80-790d-11eb-9b15-c0cf9c80fd71.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110054992-fb0fd680-7d10-11eb-9a94-16c266b2491a.png">
  <br />
   Parallels®️ Desktop for Chromebook Enterprise
 </p>
@@ -348,6 +350,69 @@ xhost +
 
 [Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) for high performance training and inference.
 
+# Flutter 
+
+[Back to the Top](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719686-0abbaa00-fb39-11ea-978d-91e55844dd7a.png">
+</p>
+
+[Flutter](https://flutter.dev/) is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile(Andorid and iOS), web, and desktop(Windows, MacOS, Linux, and Google Fuchsia) from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
+
+## Flutter Learning Resources
+
+[Flutter Gems](https://fluttergems.dev) is a curated package guide for Flutter which functionally categorizes some of the most useful and popular flutter packages available on pub.dev Flutter Gems A Flutter package landscape guide comprising 1500+ neatly categorized useful and popular packages.
+
+[Dart](https://dart.dev/) is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps using the Flutter framework.
+
+[Flutter documentation](https://flutter.dev/docs)
+
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
+
+[Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+
+[Build and release an Android app using Flutter](https://flutter.dev/docs/deployment/android)
+
+[Flutter Tools & techniques](https://flutter.dev/docs/development/tools)
+
+[Dart and Flutter: The Complete Developer's Guide on Udemy](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/)
+
+[Creating an Interactive Story with Flutter on Coursera](https://www.coursera.org/projects/story-creating-flutter)
+
+[Flutter for Beginners course on Pluralsight](https://www.pluralsight.com/courses/flutter-getting-started)
+
+[Flutter Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/flutter)
+
+[The Complete Flutter App Development Bootcamp with Dart by App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
+
+[Adding Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup)
+
+[Using Firebase and Firestore with Flutter](https://flutter.dev/docs/development/data-and-backend/firebase)
+
+[Fuchsia Project](https://fuchsia.dev/)
+
+[Getting Started with Fuchsia](https://fuchsia.dev/fuchsia-src/get-started)
+
+[Fuchsia Reference](https://fuchsia.dev/reference)
+
+[Contributing to Fuchsia](https://fuchsia.dev/fuchsia-src/CONTRIBUTING)
+
+## Flutter Tools
+
+[Firebase](https://firebase.google.com/) is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files.
+
+[FlutterFire](https://firebase.flutter.dev/) is a set of [Flutter plugins](https://flutter.io/platform-plugins/) that enable Flutter apps to use [Firebase](https://firebase.google.com/) services. You can follow an example that shows how to use these plugins in the [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0) codelab.
+
+[FlutterBoost](https://github.com/alibaba/flutter_boost) is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
+
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+
+[Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
+
+[Fluro](https://github.com/theyakka/fluro) is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
+
+[Flame](https://flame-engine.org/) is a minimalistic Flutter game engine.
  
  ## Contribute
 
