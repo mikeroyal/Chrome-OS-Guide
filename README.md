@@ -22,7 +22,7 @@
 
 6. [Machine Learning](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#machine-learning)
 
-7.[Flutter Development](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#flutter-development)
+7. [Flutter Development](https://github.com/mikeroyal/Chrome-OS-Guide/blob/main/README.md#flutter-development)
 
 
 # Getting Started
