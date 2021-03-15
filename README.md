@@ -471,7 +471,7 @@ Local virtual devices with high performances.
 
  ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/Chrome-OS-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Chrome-OS-Guide/pulls).
 
 
 ## License
