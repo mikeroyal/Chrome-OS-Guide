@@ -87,7 +87,7 @@
 
 ## Flatpaks
 
-[Setting up Flatpaks for Chrome OS](https://www.flatpak.org/setup/Chrome%20OS/)https://www.flatpak.org/setup/Chrome%20OS/
+[Setting up Flatpaks for Chrome OS](https://www.flatpak.org/setup/Chrome%20OS/)
 
 [FlatHub](https://flathub.org/) is a build and distribution service for Flatpak applications.
 
@@ -157,7 +157,7 @@ The [GNOME](https://www.gnome.org/) Software Center is similar to the Google Pla
 ```sh
 sudo apt install gnome-software gnome-packagekit
 ```
- <img src="https://user-images.githubusercontent.com/45159366/107159312-fb03fd00-6943-11eb-933c-188617e63fd1.png">
+ <img src="https://user-images.githubusercontent.com/45159366/145691816-6445caec-5608-4022-bff2-353cfb728c66.png">
  
 ## CrossOver Chrome® OS
 
