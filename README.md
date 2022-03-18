@@ -46,12 +46,12 @@
 
 [Chrome OS Features](https://www.google.com/chromebook/chrome-os/) is a Linux-based operating system developed by Google, with an emphasis on simplicity and security. As a cloud-based operating system, it uses the Chrome web browser as its primary user interface. In 2016, access to Android apps via the Google Play Store available on select Chrome OS devices. Finally, in 2018 Linux apps are now running natively on select devices via [Project Crostini](https://chromeos.dev/en/linux).
 
-[Chrome OS Flex](https://chromeenterprise.google/os/chromeosflex/) is a free and sustainable way to modernize devices you already own. It’s easy to deploy across your fleet or simply try it to see what a cloud-first OS has to offer for PCs and Macs. The easiest way to ChromeOS Flex is by using the [Chromebook Recovery Utility extension](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm).
+[Chrome OS Flex](https://chromeenterprise.google/os/chromeosflex/) is a free and sustainable way to modernize devices you already own. It’s easy to deploy across your fleet or simply try it to see what a cloud-first OS has to offer for PCs and Macs. The easiest way to get ChromeOS Flex is by using the [Chromebook Recovery Utility extension](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158933107-8281abff-c56f-4a8f-8ed6-b51f87ddb0cb.png">
   <br />
-  Chrome OS Flex
+  Chromebook Recovery Utility
 </p>
 
 [Chrome OS Enterprise](https://chromeenterprise.google/os/)
