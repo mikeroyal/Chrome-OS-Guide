@@ -66,6 +66,10 @@
 
 [Chrome OS Wiki](https://chromeos.fandom.com/wiki/Chrome_OS)
 
+[Crostini Wiki](https://old.reddit.com/r/Crostini/wiki/index)
+
+[Crostini KDE Apps Setup](https://github.com/joedefen/crostini-kde-setup) is a tool that initializes a Chromebook Linux container to run KDE Apps. It also  installs Discover which is an elegant, easy-to-use "app store" for Linux apps and nearly every app.
+
 [Chromium OS](https://www.chromium.org/chromium-os) is an open-source project that aims to build an operating system that provides a fast, simple, and more secure computing experience for people who spend most of their time on the web.
 
 [chromeOS.dev](https://chromeos.dev/) is the digital home for all things Chrome OS. Learn how to adapt and optimize your existing apps to work on Chrome OS, the success other companies have had doing so, how to use Chrome OS as your developer machine, and keep up-to-date with the latest on Chrome OS.
